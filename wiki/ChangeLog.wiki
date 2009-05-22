@@ -47,7 +47,7 @@
 
 == v0.7.2 ==
 
-  * Avoid a possible hang when running commands use "*" in the filespec. See test/test_hang.py for details.
+  * Avoid a possible hang when running commands use `*` in the filespec. See test/test_hang.py for details.
   * Change _raw output to return unsplit output.
 
 == v0.7.1 ==
