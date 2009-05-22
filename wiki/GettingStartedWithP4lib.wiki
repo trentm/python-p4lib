@@ -1,5 +1,5 @@
+#summary Getting Started with `p4lib.py`
 #labels Featured
-# Getting Started with `p4lib.py`
 
 If you do any Python scripting of Perforce, then `p4lib.py` might be of interest to you. As mentioned above, not *all* Perforce client API commands are supported so you should make sure it has the ones you need first. The `p4lib.py` module docstring will tell you:
 
